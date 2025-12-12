@@ -8,7 +8,7 @@ import { ModeToggle } from "@/components/mode-toggle";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Utsav Yadav",
+  title: "Rishabh Srivastava",
   description: "A portfolio site built with Next.js and Tailwind CSS.",
 };
 
