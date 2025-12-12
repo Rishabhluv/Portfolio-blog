@@ -3,53 +3,31 @@ import { Separator } from "./ui/separator";
 
 const projects = [
   {
-    name: "The Health Onion",
-    icon: "/Onion.png",
+    name: "Food Order App",
+    icon: "/food.png",
     description:
-      "The Health Onion is a health based social media. Join communities that suit you, create posts and share your health journery with others.",
-    liveLink: "https://the-health-onion.vercel.app/",
-    githubLink: "https://github.com/utsav82/The-Health-Onion",
+      "A full-stack MERN food-ordering application with secure authentication, responsive UI, and complete order history. Built using React, Node.js, Express, and MongoDB with MVC architecture.",
+    liveLink: "https://mynewapp-sepia.vercel.app/",
+    githubLink: "https://github.com/Rishabhluv/mynewapp",
   },
   {
-    name: "Bollywood Back",
-    icon: "/bollywood.png",
+    name: "Music App",
+    icon: "/music.png",
     description:
-      "Discover the Bollywood movie that were popular when you were born. Just enter your birth date and you have a movie that was popular on the date you entered along with a youtube search for the trailer of the movie",
-    liveLink: "https://bollywood-back.vercel.app/",
-    githubLink: "https://github.com/utsav82/Bollywood-Back",
+      "A simple and interactive music player website built with HTML, CSS, and JavaScript featuring seamless playback and 9 curated audio tracks.",
+    liveLink: "https://rishabhluv.github.io/spotify-clone/",
+    githubLink: "https://github.com/Rishabhluv/spotify-clone",
   },
   {
-    name: "LogScope",
-    icon: "/log.jpg",
+    name: "Job Portal",
+    icon: "/job.png",
     description:
-      "This project implements a log ingestor system and a query interface. The system efficiently handles vast volumes of log data and provides a simple interface for querying data.",
-    githubLink: "https://github.com/utsav82/log-ingestor-query",
-  },
-  {
-    name: "Code0",
-    icon: "/code.png",
-    description:
-      "The Code Snippets Web Application is a platform designed to facilitate the submission and display of code snippets.",
-    githubLink: "https://github.com/utsav82/code0",
-    liveLink: "https://code0-runner.vercel.app/",
-  },
-  {
-    name: "Paye",
-    icon: "/paye.png",
-    description:
-      "Currently working on Paye, an expense tracker designed to simplify expense tracking and sharing among users.",
-    githubLink: "https://github.com/utsav82/paye",
-    liveLink: "https://paye-peach.vercel.app/",
-  },
-  {
-    name: "Animusic",
-    icon: "/animusic.png",
-    description:
-      "Listen to anime music on the website with a simple music player. Enjoy hand-picked tunes from anime shows and relive the anime magic through music!",
-    liveLink: "https://utsav82.github.io/Animusic/",
-    githubLink: "https://github.com/utsav82/Animusic",
+      "A modern job portal built with React, Tailwind, and Shadcn UI. Includes job posting, secure auth, API integration, and a clean responsive design.",
+    liveLink: "https://job-app-berlin.vercel.app/",
+    githubLink: "https://github.com/Rishabhluv/Job-App",
   },
 ];
+
 
 const Projects = () => {
   return (

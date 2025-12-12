@@ -6,10 +6,10 @@ const About = () => {
     <section className=" my-10 py-16 px-4 md:px-8 relative">
       <h2 className="text-2xl font-bold mb-4">About Me</h2>
       <div className="mb-6 md:w-1/2">
-        Hey I am Utsav Yadav, a third-year IT undergraduate at HBTU Kanpur. I
+        Hey I am Rishabh Srivastava, a SWE at Samsung. I am IT undergraduate from HBTU Kanpur. I
         have always been fascinated by technology and my love for it has driven
         me towards coding and problem solving. I have dvelved into competitive
-        programming and web development over the past 2 years and it has been a
+        programming and web development over the past 4 years and it has been a
         very memorable journey. Currently, I am learning about different System
         Design concepts on how to make large scale distributed systems. I also
         have hobbies ranging from speedcubing to watching anime and chilling.

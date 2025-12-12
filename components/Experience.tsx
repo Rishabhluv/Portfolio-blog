@@ -17,21 +17,22 @@ const sidebarNavItems = [
 
 const experience = [
   {
-    title: "Web Developer Intern",
-    date: "March - May 2023 ",
-    company: "CrackDSA",
+    title: "Software Developer Engineer",
+    date: "Jan 2025 - Current ",
+    company: "Samsung",
     responsibilities: [
-      "Collaborated on both frontend and backend development of https://jobsearch.crackdsa.com, where I worked with React.js for creating frontend components using Tailwind-CSS and handled routing logic with react-router.",
-      "Implemented a robust CRUD backend with authentication and search with filter functionalities for job items using Express.js, Node.js, and MongoDB.",
+      "Performed hyperparameter tuning on a deep neural network model by optimizing 5 key parameters - learning rate, optimizer, number of layers, number of epochs, and dropout rate resulting in a significant 9% increase in accuracy",
+      "Executed data pre-processing and feature selection by carefully retaining the top 60% (30 out of 50) top features, optimizing them to significantly enhance model performance and prediction accuracy by 15 percentage point",
+      "Created deep learning model achieving 87% accuracy through effective architecture design and efficient optimization",
     ],
   },
   {
-    title: "Associate Head Web development",
-    date: "Feb 2023 - Present",
-    company: "Technical Sub Council HBTU",
+    title: "Teaching Assistant",
+    date: "Jan 2024 - April 2024",
+    company: "TLE Eliminators",
     responsibilities: [
-      "Maintained the official event site of Technika’23, using Next.js framework and Typescript.",
-      "Contributed to the development of the Team page and maintained various Events pages, enhancing accessibility and providing timely updates for participants.",
+      "Collaborated closely with over 50 students in the TLE Eliminator program, providing timely assistance and clear explanations for queries related to Data Structures and Algorithms and Competitive Programming challenges",
+      "Solved 500+ queries with detailed explanations, while promoting an engaging and collaborative learning environment",
     ],
   },
 ];

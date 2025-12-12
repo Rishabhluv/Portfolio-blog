@@ -23,23 +23,23 @@ const bullets = [
   {
     achievements: [
       {
-        text: "Max. CodeForces Rating 1639 (expert) under handle",
-        url: "https://codeforces.com/profile/Utsav82",
+        text: "Max. CodeForces Rating 1729 (expert) under handle",
+        url: "https://codeforces.com/profile/rishabhluv",
       },
       {
-        text: "Max. CodeChef Rating 2008 (5 star) under handle",
-        url: "https://www.codechef.com/users/Utsav82",
+        text: "Max. CodeChef Rating 2028 (5 star) under handle",
+        url: "https://www.codechef.com/users/ris3103",
       },
     ],
   },
   {
     achievements: [
       {
-        text: "I specialize in web development and have knowledge in core web technologies like HTML, CSS, JavaScript, and SQL.",
+        text: "I specialize in web development and have knowledge in core web technologies like HTML, CSS, JavaScript and SQL.",
         url: null,
       },
       {
-        text: "Proficient in frameworks like React.js, Next.js, Node.js, Express.js, and styling with Tailwind CSS. Experienced with tools like Visual Studio Code, Git/GitHub, and databases such as MongoDB and Mysql.",
+        text: "Proficient in frameworks like React.js, Node.js, Express.js, and styling with Tailwind CSS. Experienced with tools like Visual Studio Code, Git/GitHub, and databases such as MongoDB and Mysql.",
         url: null,
       },
     ],
