@@ -94,7 +94,7 @@ export default function SettingsLayout() {
                           rel="noopener noreferrer"
                         >
                           {" "}
-                          Utsav82
+                          Rishabh
                         </a>
                       </div>
                     ) : (
